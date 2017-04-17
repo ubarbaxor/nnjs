@@ -1,0 +1,24 @@
+{
+  "name": "nnjs",
+  "version": "0.0.0",
+  "description": "Neurons and stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubarbaxor/nnjs.git"
+  },
+  "author": "ubarbaxor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ubarbaxor/nnjs/issues"
+  },
+  "homepage": "https://github.com/ubarbaxor/nnjs#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
